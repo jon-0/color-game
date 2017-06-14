@@ -63,7 +63,7 @@ function reset(){
 			squares[i].style.display = "none";
 		}
 	}
-	h1.style.background = "steelblue";
+	h1.style.background = "royalblue";
 	resetButton.textContent = "New Colors";
 	messageDisplay.textContent = "";
 };
